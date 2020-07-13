@@ -1,0 +1,5 @@
+# Research-Internship
+Deep Neuroevolution
+** Task to be done **
+ - Include L clip function
+ - Search about the DL convergence behaviour policy.
