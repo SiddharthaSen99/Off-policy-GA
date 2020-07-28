@@ -214,6 +214,7 @@ def main():
             avg_length = 0
         s1.append(surri)
         #surr_mean = torch.mean(torch.stack(surr_actual))    
+    s1 = [i for i in s1 if i != 0]
     print(torch.mean(torch.stack(s1)))      
 if __name__ == '__main__':
     main()
