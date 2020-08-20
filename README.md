@@ -6,4 +6,7 @@ Deep Neuroevolution
  - Search about the DL convergence behaviour policy in order to come up with a suitable behavioural policy
  - Work in improving the models and figuring out why the rewards are in constant range
  
+ This week tasks:
+  - Compare performance using different environments.
+ 
  Official DeepNeuroevolution: https://github.com/uber-research/deep-neuroevolution
