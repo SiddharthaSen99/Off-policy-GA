@@ -1,12 +1,13 @@
 # Research-Internship
 Deep Neuroevolution
-** Tasks to be done **
- - Include L(CPI) function as present in TRPO_PPO.py
- - (Optional) Check performance by comparing against not only DeepNeuroEvolution, but also by including L(Clip) instead of L(CPI).
- - Search about the DL convergence behaviour policy in order to come up with a suitable behavioural policy
- - Work in improving the models and figuring out why the rewards are in constant range
- 
- This week tasks:
-  - Compare performance using different environments.
+** Long-term Tasks to be done **
+1. KL Divergence
+2. Best behavioural policy
+3. Make FNE off policy
+4. Incorporate L_pi function, i.e, advantage and ratios estimation
+5. Add a working plot
+6. Test in various environments
+7. Test performance against other benchmarks
+8. Implement Crossover()
  
  Official DeepNeuroevolution: https://github.com/uber-research/deep-neuroevolution
