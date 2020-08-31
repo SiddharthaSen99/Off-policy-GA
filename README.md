@@ -9,5 +9,3 @@ Deep Neuroevolution
 6. Test in various environments
 7. Test performance against other benchmarks
 8. Implement Crossover()
- 
- Official DeepNeuroevolution: https://github.com/uber-research/deep-neuroevolution
