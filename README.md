@@ -6,4 +6,5 @@ Deep Neuroevolution
 3. Test in various environments
 4. Test performance against other benchmarks
 5. Implement Crossover instead of elitism
-6.Improve the performance of the algorithm
+6. Improve the performance of the algorithm
+7. Read papers related to crossover
