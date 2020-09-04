@@ -10,8 +10,9 @@ Deep Neuroevolution
 7. Read papers related to crossover
 
 KL Divergence: https://en.wikipedia.org/wiki/Multivariate_normal_distribution#Kullback.E2.80.93Leibler_divergence
+
 KL divergence Code: https://github.com/chiragsamal/Research-Internship/blob/master/trpo-master/trpo/policy.py
 
 Crossover: 
- - Evolution-Guided Policy Gradient in Reinforcement Learning
- - Collaborative Evolutionary Reinforcement Learning
+ - [Evolution-Guided Policy Gradient in Reinforcement Learning](https://arxiv.org/pdf/1805.07917v2.pdf)
+ - [Collaborative Evolutionary Reinforcement Learning](https://arxiv.org/pdf/1905.00976.pdf)
