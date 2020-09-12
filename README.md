@@ -13,6 +13,14 @@ KL Divergence: https://en.wikipedia.org/wiki/Multivariate_normal_distribution#Ku
 
 KL divergence Code: https://github.com/chiragsamal/Research-Internship/blob/master/trpo-master/trpo/policy.py
 
+### Tasks for current week
+- Writing the paper : everyone
+- Coming up with a function to choose behaviour policy : Krithick
+- Plotting L_pi and Eta vs KL Divergence graph for a single policy : Chirag
+- Changing the current Eta estimation and the sum of future discounted rewards : Siddartha
+
+### Ongoing Literature Surveys
+
 Crossover: 
  - [Evolution-Guided Policy Gradient in Reinforcement Learning](https://arxiv.org/pdf/1805.07917v2.pdf)
  - [Collaborative Evolutionary Reinforcement Learning](https://arxiv.org/pdf/1905.00976.pdf)
