@@ -9,15 +9,13 @@ Deep Neuroevolution
 6. Improve the performance of the algorithm
 7. Read papers related to crossover
 
-KL Divergence: https://en.wikipedia.org/wiki/Multivariate_normal_distribution#Kullback.E2.80.93Leibler_divergence
+[KL Divergence Mathematical Documentation](https://en.wikipedia.org/wiki/Multivariate_normal_distribution#Kullback.E2.80.93Leibler_divergence)
 
-KL divergence Code: https://github.com/chiragsamal/Research-Internship/blob/master/trpo-master/trpo/policy.py
+[KL divergence Code](https://github.com/chiragsamal/Research-Internship/blob/master/trpo-master/trpo/policy.py)
 
 ### Tasks for current week
 - Writing the paper : everyone
 - Coming up with a function to choose behaviour policy : Krithick
-- Plotting L_pi and Eta vs KL Divergence graph for a single policy : Chirag
-- Changing the current Eta estimation and the sum of future discounted rewards : Siddartha
 
 ### Ongoing Literature Surveys
 
