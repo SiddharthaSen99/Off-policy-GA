@@ -1,13 +1,11 @@
 # Research-Internship
 Deep Neuroevolution
 **Tasks to be done**
-1. KL Divergence
-2. Best behavioural policy
-3. Test in various environments
-4. Test performance against other benchmarks
-5. Implement Crossover instead of elitism
-6. Improve the performance of the algorithm
-7. Read papers related to crossover
+1. Test in various environments
+2. Test performance against other benchmarks
+3. Implement Crossover instead of elitism
+4. Improve the performance of the algorithm
+5. Read papers related to crossover
 
 [KL Divergence Mathematical Documentation](https://en.wikipedia.org/wiki/Multivariate_normal_distribution#Kullback.E2.80.93Leibler_divergence)
 
@@ -15,7 +13,7 @@ Deep Neuroevolution
 
 ### Tasks for current week
 - Writing the paper : everyone
-- Coming up with a function to choose behaviour policy : Krithick
+- Combining Clustering code with main codebase: Krithick
 
 ### Ongoing Literature Surveys
 
