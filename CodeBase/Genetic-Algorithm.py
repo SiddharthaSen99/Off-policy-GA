@@ -82,8 +82,8 @@ def run_episode(env, weight, render = False):
 	done = False
 	step = 0
 	while not done:
-		#if(render):
-		#	env.render()
+		if(render):
+			env.render()
 		if(step > steps_limit):
 			move = NULL_ACTION
 		else:
